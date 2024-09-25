@@ -1,0 +1,6 @@
+git init - inicializar o repositório
+git add . serve para adicionar os arquivos modificados
+git branch serve para verificar quantas e quais branchs nós temos
+git branch nome_da_branch, cria uma branch com o nome_da_branch
+git commit -m "" serve para comitar(enviar) os arquivos e escrever uma mensagem que descreve o que foi feito
+git switch nome_da_branch serve para mudar para a branch que você quiser
