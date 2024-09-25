@@ -1,4 +1,5 @@
 git init - inicializar o repositório
+git merge serve para juntar as duas branchs
 git add . serve para adicionar os arquivos modificados
 git branch serve para verificar quantas e quais branchs nós temos
 git branch nome_da_branch, cria uma branch com o nome_da_branch
