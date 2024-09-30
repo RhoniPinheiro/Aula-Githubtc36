@@ -1,3 +1,4 @@
+O jeito certo de falar é bolacha
 git init - inicializar o repositório
 git merge serve para juntar as duas branchs
 git add . serve para adicionar os arquivos modificados
